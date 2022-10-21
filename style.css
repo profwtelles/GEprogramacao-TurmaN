@@ -69,5 +69,5 @@ li a:hover {
 }
 
 #preencher{
-	object-fit: fill;	
+	object-fit: cover;	
 }
