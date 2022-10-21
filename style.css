@@ -36,10 +36,11 @@ i {
 
 li {
 	display: inline;
+	color: white;
   }
 
 #logo {
-	position: relative;
+	display: inline;
 	text-align: left;
 }
 
