@@ -74,8 +74,8 @@ li a:hover {
 	height: 180px;
 }
 
-#minecraft_logo{
-	background-image: url("/image/Minecraft-Logo-650x366.png");
-	width : 50%;
-	height: 50%;
+.minecraft_logo{
+	position: absolute;
+	top: 30px;
+	left: 30px;
 }
