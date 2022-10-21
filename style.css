@@ -69,7 +69,5 @@ li a:hover {
 }
 
 #preencher{
-	object-fit: cover;
-	width: 30%;
-	height: 30%;	
+	background-size: cover;	
 }
