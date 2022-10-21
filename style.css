@@ -68,19 +68,6 @@ li a:hover {
 	text-align: left;
 }
 
-#main-banner {
-    /*height: 200px;*/
-    background: url("/image/minebackground.jpg");
-	object-fit: cover;
-	width: 50px;
-	height: 100px;
-}
-#main-banner-content {
-    height: 150px;
-	width: 40%;
-    background: url("/image/Minecraft-Logo-650x366.png");
-    margin: auto;
-	background-repeat: no-repeat;
-	text-align: center;
-	position: absolute;
+#preencher{
+	object-fit: fill;	
 }
