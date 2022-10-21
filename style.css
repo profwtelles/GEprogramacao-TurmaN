@@ -13,9 +13,11 @@ header, footer {
 main {
 	background-color: #acf497;
 }
+
 h1  {
 	 text-align: center;
 	 color: black;
+	 font-size: 14px;
 }
 
 h3 {
