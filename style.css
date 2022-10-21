@@ -71,7 +71,9 @@ li a:hover {
 #main-banner {
     /*height: 200px;*/
     background: url("/image/minebackground.jpg");
-	background-repeat: repeat;
+	object-fit: cover;
+	width: 50px;
+	height: 100px;
 }
 #main-banner-content {
     height: 150px;
