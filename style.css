@@ -69,5 +69,6 @@ li a:hover {
 }
 
 #preencher{
-	background-size: cover;	
+	background-image: url("/image/minebackground.jpg");
+	background-repeat: repeat-y;
 }
