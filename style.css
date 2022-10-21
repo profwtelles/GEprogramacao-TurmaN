@@ -71,4 +71,5 @@ li a:hover {
 #preencher{
 	background-image: url("/image/minebackground.jpg");
 	background-repeat: repeat-y;
+	height: 180px;
 }
