@@ -35,10 +35,10 @@ i {
 }
 
 #main-banner {
-    width: 500px;
     height: 200px;
     background: url("/image/minebackground.jpg");
     background-size: cover;
+	background-repeat: repeat;
 }
 #main-banner-content {
     height: 100px;
