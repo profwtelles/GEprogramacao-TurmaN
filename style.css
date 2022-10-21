@@ -44,4 +44,6 @@ i {
     height: 150px;
     background: url("/image/Minecraft-Logo-650x366.png");
     margin: auto;
+	background-repeat: no-repeat;
+	text-align: center;
 }
