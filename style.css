@@ -34,6 +34,15 @@ i {
 	font-size: 30px;
 }
 
+li {
+	display: inline;
+  }
+
+#logo {
+	position: relative;
+	text-align: left;
+}
+
 #main-banner {
     height: 200px;
     background: url("/image/minebackground.jpg");
