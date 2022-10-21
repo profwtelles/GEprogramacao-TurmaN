@@ -41,8 +41,7 @@ i {
 	background-repeat: repeat;
 }
 #main-banner-content {
-    height: 100px;
-    width: 200px;
-    background: #555;
+    height: 150px;
+    background: url("/image/Minecraft-Logo-650x366.png");
     margin: auto;
 }
