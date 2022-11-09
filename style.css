@@ -1,5 +1,5 @@
 body {
-	background-color: #83bf34;
+	background-color: #ABEBC6;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -11,22 +11,25 @@ header {
 }
 
 main {
-	background-color: #acf497;
+	background-color: #ABEBC6;
 }
 
 footer {
-	background-color: #111;
+	background-color: #28B463;
 }
 
 h1  {
 	 text-align: center;
 	 color: black;
-	 font-size: 20px;
+	 font-size: 28px;
 	 font-weight: bold;
+	 height: 32px;
+	margin-top: 8px;
 }
 
 h3 {
 	color:black;
+	font-weight: bold;
 }
 
 b {
@@ -60,7 +63,9 @@ li a {
 	text-decoration: none;
 }
   
-  /* Change the link color to #111 (black) on hover */
+.momentos{
+	margin-bottom: 16px;
+}
 li a:hover {
 	background-color: #111;
 }
@@ -74,18 +79,28 @@ li a:hover {
 }
 
 #preencher{
-	background-image: url("/image/minebackground.jpg");
+	background-image: url("image/minebackground.jpg");
 	background-repeat: repeat-x;
-	height: 180px;
+	height: 150px;
+	display: flex;
+	justify-content:center;
 }
 
 .minecraft_logo{
-	/*position: relative; */
-	width: 50%;
-	height: 50%;
+  position: relative; 
+  z-index: 2;
+  top: 0px;
 }
 
-#menu2 {
+.menu2 {
 	color: white;
 	display: block;
+}
+
+.rodape {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	width: 100%;
+	height: 32px;
 }
