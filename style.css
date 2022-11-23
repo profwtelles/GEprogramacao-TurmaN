@@ -116,6 +116,7 @@ nav li a:hover {
 	border: white 6px;
 	border-style: solid;
 	border-radius: 5px;
+	text-align: center;
 }
 
 .aspectos__titulo{
