@@ -105,3 +105,13 @@ nav li a:hover {
 	width: 100%;
 	height: 32px;
 }
+
+.aspectos__imagem{
+	width: 100px;
+	height: 100px;
+}
+
+.aspectos li{
+	border:black 6px;
+	border-style: solid;
+}
