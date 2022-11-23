@@ -115,5 +115,9 @@ nav li a:hover {
 	list-style: none;
 	border: white 6px;
 	border-style: solid;
+	border-radius: 20px;
+}
+
+.aspectos__titulo{
 	color: white;
 }
