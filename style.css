@@ -80,7 +80,7 @@ nav li a:hover {
 	text-align: left;
 }
 
-#logo hover{
+#logo:hover{
 	opacity: 70px;
 }
 
