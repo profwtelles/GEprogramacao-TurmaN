@@ -81,7 +81,8 @@ nav li a:hover {
 }
 
 #logo:hover{
-	opacity: 70px;
+	opacity: 70%;
+	transform: scale(1.1);
 }
 
 #preencher{
