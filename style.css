@@ -69,6 +69,7 @@ nav li a {
 }
 nav li a:hover {
 	background-color: #111;
+	transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .active {
 	background-color: #04AA6D;
