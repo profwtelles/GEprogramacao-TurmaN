@@ -80,6 +80,10 @@ nav li a:hover {
 	text-align: left;
 }
 
+#logo hover{
+	opacity: 70px;
+}
+
 #preencher{
 	background-image: url("image/minebackground.jpg");
 	background-repeat: repeat-x;
