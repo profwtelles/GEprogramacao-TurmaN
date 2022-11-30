@@ -116,6 +116,14 @@ nav li a:hover {
 	height: 100px;
 }
 
+.aspectos__imagem:hover{
+	opacity: 100%;
+	transform: scale(1.1);
+}
+
+.aspectos__imagem:active{
+	transform: scale(0.9);
+}
 .aspectos li{
 	list-style: none;
 	border: white 6px;
